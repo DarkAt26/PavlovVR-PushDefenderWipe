@@ -3,7 +3,7 @@
   "GameMode": "TDM",
   "VotingTime": 30,
   "DisplayMethod": "Linear",
-  "Random-DontReUseMapForXRounds": 5,
+  "Random-DontReUseMapForXRounds": 3,
   "MapPool": [
     "3032599",
     "3061028",
