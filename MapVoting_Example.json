@@ -1,10 +1,15 @@
 {
-  "Url": "https://raw.githubusercontent.com/DarkAt26/PavlovVR-RandomBlueprintCollection/refs/heads/main/MapVoting_Example.json",
+  "URL": "https://raw.githubusercontent.com/DarkAt26/PavlovVR-RandomBlueprintCollection/refs/heads/main/MapVoting_Example.json",
   "GameMode": "TDM",
-  "DisplayMethod": "Linear,Random",
+  "DisplayMethod": "Linear",
   "Random-DontReUseMapForXRounds": 5,
   "MapPool": [
-    "Id/Number Only no \"UGC\""
+    "3032599",
+    "3061028",
+    "3048982",
+    "3085188",
+    "2816161",
+    "2817844"
   ],
   "bUseMapRotationOnEmptyServer": false
 }
