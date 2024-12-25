@@ -1,7 +1,7 @@
 {
   "URL": "https://raw.githubusercontent.com/DarkAt26/PavlovVR-RandomBlueprintCollection/refs/heads/main/MapVoting_Example.json",
   "GameMode": "TDM",
-  "VotingTime": 25,
+  "VotingTime": 30,
   "DisplayMethod": "Linear",
   "Random-DontReUseMapForXRounds": 5,
   "MapPool": [
