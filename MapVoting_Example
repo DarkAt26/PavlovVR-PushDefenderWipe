@@ -1,0 +1,9 @@
+{
+  "GameMode": "TDM",
+  "DisplayMethod": "0,1 (Linear,Random) ",
+  "Random-DontReUseMapForXRounds": 5,
+  "MapPool": [
+    "Id/Number Only no \"UGC\""
+  ],
+  "bUseMapRotationOnEmptyServer": false
+}
