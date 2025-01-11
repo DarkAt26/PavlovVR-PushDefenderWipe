@@ -1,0 +1,17 @@
+{
+  "URL": "https://raw.githubusercontent.com/DarkAt26/PavlovVR-RandomBlueprintCollection/refs/heads/main/MapVotingTestingPush.json",
+  "GameMode": "PUSH",
+  "VotingTime": 20,
+  "DisplayMethod": "Random",
+  "Random-DontReUseMapForXRounds": 3,
+  "MapPool": [
+        "3327006",
+        "3252313",
+        "4045141",
+        "3034704",
+        "4334606",
+        "3109522",
+        "4063400",
+        "4532004"
+    ]
+}
